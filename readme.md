@@ -2,16 +2,16 @@
 
 
 
-[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/Kay-Wei/yii2-error-dingtalk "JavaScript The Good Parts")[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKay-Wei%2Fyii2-error-dingtalk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKay-Wei%2Fyii2-error-dingtalk?ref=badge_shield)![](https://img.shields.io/github/languages/code-size/Kay-Wei/yii2-error-dingtalk)
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/kayw-geek/yii2-error-dingtalk "JavaScript The Good Parts")[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKay-Wei%2Fyii2-error-dingtalk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkayw-geek%2Fyii2-error-dingtalk?ref=badge_shield)![](https://img.shields.io/github/languages/code-size/kayw-geek/yii2-error-dingtalk)
 
-基于Yii2错误处理的钉钉群机器人Webhook通知
+:fire: 基于Yii2错误处理的钉钉群机器人Webhook通知
 
 ## 安装
 
 使用 Composer 安装:
 
 ```
-$ composer require Kay-Wei/yii2-error-dingtalk
+$ composer require kayw-geek/yii2-error-dingtalk
 ```
 
 ## 使用
