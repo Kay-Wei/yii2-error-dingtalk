@@ -1,5 +1,5 @@
 {
-  "name": "Kay-Wei/yii2-error-dingtalk",
+  "name": "kayw-geek/yii2-error-dingtalk",
   "description": "When an HTTP error occurs, it can help you record the log and notify the Dingding group through webhook",
   "keywords": ["yii", "yii2", "notice", "error handler","webhook","dingtalk"],
   "type": "yii2-extension",
@@ -14,11 +14,11 @@
     "yiisoft/yii2": "*"
   },
   "support": {
-    "issues": "https://github.com/Kay-Wei/yii2-error-dingtalk/issues"
+    "issues": "https://github.com/kayw-geek/yii2-error-dingtalk/issues"
   },
   "autoload": {
     "psr-4": {
-      "kaywei\\yii2ErrorDingtalk\\": ""
+      "kaywGeek\\yii2ErrorDingtalk\\": ""
     }
   }
 }
