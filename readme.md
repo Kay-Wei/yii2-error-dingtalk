@@ -1,10 +1,10 @@
-# Yii2 Error DingTalk 
+# :fire: Yii2 Error DingTalk 
 
 
 
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/kayw-geek/yii2-error-dingtalk "JavaScript The Good Parts")[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKay-Wei%2Fyii2-error-dingtalk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkayw-geek%2Fyii2-error-dingtalk?ref=badge_shield)![](https://img.shields.io/github/languages/code-size/kayw-geek/yii2-error-dingtalk)
 
-:fire: 基于Yii2错误处理的钉钉群机器人Webhook通知
+ 基于Yii2错误处理的钉钉群机器人Webhook通知
 
 ## 安装
 
