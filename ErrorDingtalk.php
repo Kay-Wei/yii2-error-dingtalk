@@ -5,7 +5,7 @@
  * @date: 20.9.10 15:11
  */
 
-namespace kaywei\yii2ErrorDingtalk;
+namespace kaywGeek\yii2ErrorDingtalk;
 
 
 use yii\base\Action;

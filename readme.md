@@ -33,7 +33,7 @@ public function actions()
 	{
             return [
                 'error' => [
-                    'class' => 'kaywei\yii2ErrorDingtalk\ErrorDingtalk', 
+                    'class' => 'kaywGeek\yii2ErrorDingtalk\ErrorDingtalk', 
                     'handle' => [ '500','403','401','502','404'], //启用哪些状态码
                     'title' => 'PC Web 异常状态码监测通知', //通知标题
                     'logCategoryName' => 'error-status', //日志分类名
